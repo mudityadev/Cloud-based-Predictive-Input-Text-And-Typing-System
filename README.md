@@ -36,7 +36,7 @@ Cloud-based-Predictive-Input-Text-And-Typing-System
 
 
 <!-- ABOUT THE PROJECT -->
-## Overview - About The Project
+## Overview - About The Nexus Project
 ![alt text](Screenshots/3.gif)
 Typing on the keyboard is probably the most fundamental way we interact with any computer, or for that matter almost any digital device. Voice recognition and dictation software might replace it someday, but as any Siri user knows, we’re definitely not there yet. 
 
