@@ -72,7 +72,7 @@ Nexus Input Method is a cloud-based English language input software which captur
    git clone https://github.com/mudityadev/Cloud-based-predictive-input-text-and-typing.git
    ```
 2. Open Backend directory
-    ```sh
+ ```sh
    pip3 install -r requirements
    ```
 3. Open Frontend directory
