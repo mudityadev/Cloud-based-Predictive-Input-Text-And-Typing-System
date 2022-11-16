@@ -6,7 +6,7 @@ Cloud-based-Predictive-Input-Text-And-Typing-System
   <p align="center">
   (Final Year Project, 2019-23 B.Tech GGITS, Jabalpur)
     <br />
-    <a href="https://mudityadev.github.io/mudityadev/"><strong>Muditya Raghav Portflio </strong></a>
+    <a href="https://mudityadev.github.io"><strong>Muditya Raghav Portflio </strong></a>
   
 
 
